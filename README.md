@@ -8,7 +8,9 @@ Bot handles everything itself, you don't have to buy a fishing rod everytime it 
 
 ## Cron Jobs
 .work -> every 5 minutes 6 seconds
+
 .fish -> every 1 minute 4 seconds
+
 .trivia hard -> every 10 minutes 1 second
 
 **Selling Items** -> every 8 minutes 2 seconds
