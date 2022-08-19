@@ -1,7 +1,7 @@
 version: "3.9"
 
 services:
-  tiktok-bot:
+  pancake-bot:
     container_name: "pancake_auto"
     build: .
     restart: unless-stopped
